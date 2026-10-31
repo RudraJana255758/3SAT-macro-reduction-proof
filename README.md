@@ -1,6 +1,6 @@
-% LICENSE NOTICE: 
-% This work is licensed under a Creative Commons Attribution 4.0 International License.
-% To view a copy of this license, visit http://creativecommons.org
+LICENSE NOTICE: 
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org
 
 \section{Conversion of Clauses to Implications with AND Gates}
 A 3-variable clause ($A \lor B \lor C$) can be broken down into equivalent implication statements using only AND gates by applying De Morgan's laws:
